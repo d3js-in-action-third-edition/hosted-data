@@ -1,0 +1,31 @@
+{
+  "stages": [
+    { "date": "1 July 2022", "stage": "1", "stage_name": "Copenhagen (Denmark)", "distance_km": 13.2, "type": "individual_time_trial" },
+    { "date": "2 July 2022", "stage": "2", "stage_name": "Roskilde to Nyborg (Denmark)", "distance_km": 202.5, "type": "flat" },
+    { "date": "3 July 2022", "stage": "3", "stage_name": "Vejle to Sønderborg (Denmark)", "distance_km": 182, "type": "flat" },
+    { "date": "4 July 2022", "type": "rest_day" },
+    { "date": "5 July 2022", "stage": "4", "stage_name": "Dunkirk to Calais", "distance_km": 171.5, "type": "hilly" },
+    { "date": "6 July 2022", "stage": "5", "stage_name": "Lille to Arenberg", "distance_km": 157, "type": "hilly" },
+    { "date": "7 July 2022", "stage": "6", "stage_name": "Binche (Belgium) to Longwy", "distance_km": 219.9, "type": "hilly" },
+    { "date": "8 July 2022", "stage": "7", "stage_name": "Tomblaine to La Planche des Belles Filles", "distance_km": 176.3, "type": "mountain" },
+    { "date": "9 July 2022", "stage": "8", "stage_name": "Dole to Lausanne (Switzerland)", "distance_km": 186.3, "type": "medium_mountain" },
+    { "date": "10 July 2022", "stage": "9", "stage_name": "Aigle (Switzerland) to Châtel", "distance_km": 192.9, "type": "mountain" },
+    { "date": "11 July 2022", "type": "rest_day" },
+    { "date": "12 July 2022", "stage": "10", "stage_name": "Morzine to Megève", "distance_km": 148.1, "type": "medium_mountain" },
+    { "date": "13 July 2022", "stage": "11", "stage_name": "Albertville to Col du Granon", "distance_km": 151.7, "type": "mountain" },
+    { "date": "14 July 2022", "stage": "12", "stage_name": "Briançon to Alpe d'Huez", "distance_km": 165.1, "type": "mountain" },
+    { "date": "15 July 2022", "stage": "13", "stage_name": "Le Bourg-d'Oisans to Saint-Étienne", "distance_km": 192.6, "type": "flat" },
+    { "date": "16 July 2022", "stage": "14", "stage_name": "Saint-Étienne to Mende", "distance_km": 192.5, "type": "medium_mountain" },
+    { "date": "17 July 2022", "stage": "15", "stage_name": "Rodez to Carcassonne", "distance_km": 202.5, "type": "flat" },
+    { "date": "18 July 2022", "type": "rest_day" },
+    { "date": "19 July 2022", "stage": "16", "stage_name": "Carcassonne to Foix", "distance_km": 178.5, "type": "medium_mountain" },
+    { "date": "20 July 2022", "stage": "17", "stage_name": "Saint-Gaudens to Peyragudes", "distance_km": 129.7, "type": "mountain" },
+    { "date": "21 July 2022", "stage": "18", "stage_name": "Lourdes to Hautacam", "distance_km": 143.2, "type": "mountain" },
+    { "date": "22 July 2022", "stage": "19", "stage_name": "Castelnau-Magnoac to Cahors", "distance_km": 188.3, "type": "flat" },
+    { "date": "23 July 2022", "stage": "20", "stage_name": "Lacapelle-Marival to Rocamadour", "distance_km": 40.7, "type": "individual_time_trial" },
+    { "date": "24 July 2022", "stage": "21", "stage_name": "Paris La Défense Arena to Paris (Champs-Élysées)", "distance_km": 115.6, "type": "flat" }
+  ],
+  "riders": [
+
+  ]
+}
