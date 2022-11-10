@@ -1361,382 +1361,664 @@
          ]
       }
    ],
-   "downloads_react":[
+   "npm_monthly_downloads":[
       {
          "date":"2015-01",
-         "downloads":0
+         "react":0,
+         "angular":0,
+         "vuejs":0,
+         "svelte":0
       },
       {
          "date":"2015-02",
-         "downloads":11998
+         "react":11998,
+         "angular":0,
+         "vuejs":4946,
+         "svelte":0
       },
       {
          "date":"2015-03",
-         "downloads":192495
+         "react":192495,
+         "angular":0,
+         "vuejs":7174,
+         "svelte":0
       },
       {
          "date":"2015-04",
-         "downloads":240114
+         "react":240114,
+         "angular":0,
+         "vuejs":6981,
+         "svelte":0
       },
       {
          "date":"2015-05",
-         "downloads":278768
+         "react":278768,
+         "angular":0,
+         "vuejs":9461,
+         "svelte":0
       },
       {
          "date":"2015-06",
-         "downloads":367412
+         "react":367412,
+         "angular":0,
+         "vuejs":13387,
+         "svelte":0
       },
       {
          "date":"2015-07",
-         "downloads":439284
+         "react":439284,
+         "angular":0,
+         "vuejs":24302,
+         "svelte":0
       },
       {
          "date":"2015-08",
-         "downloads":457473
+         "react":457473,
+         "angular":0,
+         "vuejs":9994,
+         "svelte":0
       },
       {
          "date":"2015-09",
-         "downloads":517258
+         "react":517258,
+         "angular":0,
+         "vuejs":14999,
+         "svelte":0
       },
       {
          "date":"2015-10",
-         "downloads":625084
+         "react":625084,
+         "angular":0,
+         "vuejs":17700,
+         "svelte":0
       },
       {
          "date":"2015-11",
-         "downloads":796863
+         "react":796863,
+         "angular":0,
+         "vuejs":50822,
+         "svelte":0
       },
       {
          "date":"2015-12",
-         "downloads":828461
+         "react":828461,
+         "angular":0,
+         "vuejs":50919,
+         "svelte":0
       },
       {
          "date":"2016-01",
-         "downloads":1061729
+         "react":1061729,
+         "angular":0,
+         "vuejs":48243,
+         "svelte":0
       },
       {
          "date":"2016-02",
-         "downloads":1127319
+         "react":1127319,
+         "angular":0,
+         "vuejs":29803,
+         "svelte":0
       },
       {
          "date":"2016-03",
-         "downloads":1377057
+         "react":1377057,
+         "angular":0,
+         "vuejs":67236,
+         "svelte":0
       },
       {
          "date":"2016-04",
-         "downloads":1625758
+         "react":1625758,
+         "angular":0,
+         "vuejs":96319,
+         "svelte":0
       },
       {
          "date":"2016-05",
-         "downloads":1681429
+         "react":1681429,
+         "angular":0,
+         "vuejs":124185,
+         "svelte":0
       },
       {
          "date":"2016-06",
-         "downloads":1693632
+         "react":1693632,
+         "angular":0,
+         "vuejs":141557,
+         "svelte":0
       },
       {
          "date":"2016-07",
-         "downloads":1791560
+         "react":1791560,
+         "angular":0,
+         "vuejs":132527,
+         "svelte":0
       },
       {
          "date":"2016-08",
-         "downloads":2118532
+         "react":2118532,
+         "angular":0,
+         "vuejs":140417,
+         "svelte":0
       },
       {
          "date":"2016-09",
-         "downloads":2168065
+         "react":2168065,
+         "angular":0,
+         "vuejs":135075,
+         "svelte":0
       },
       {
          "date":"2016-10",
-         "downloads":2278493
+         "react":2278493,
+         "angular":648388,
+         "vuejs":191392,
+         "svelte":0
       },
       {
          "date":"2016-11",
-         "downloads":2564601
+         "react":2564601,
+         "angular":693729,
+         "vuejs":227628,
+         "svelte":750
       },
       {
          "date":"2016-12",
-         "downloads":2402127
+         "react":2402127,
+         "angular":773365,
+         "vuejs":243538,
+         "svelte":3416
       },
       {
          "date":"2017-01",
-         "downloads":2924208
+         "react":2924208,
+         "angular":936740,
+         "vuejs":280773,
+         "svelte":2490
       },
       {
          "date":"2017-02",
-         "downloads":2961989
+         "react":2961989,
+         "angular":1082831,
+         "vuejs":345766,
+         "svelte":2914
       },
       {
          "date":"2017-03",
-         "downloads":3643833
+         "react":3643833,
+         "angular":1350222,
+         "vuejs":519761,
+         "svelte":6261
       },
       {
          "date":"2017-04",
-         "downloads":3957359
+         "react":3957359,
+         "angular":1289953,
+         "vuejs":448786,
+         "svelte":9560
       },
       {
          "date":"2017-05",
-         "downloads":4465087
+         "react":4465087,
+         "angular":1499037,
+         "vuejs":572362,
+         "svelte":5883
       },
       {
          "date":"2017-06",
-         "downloads":4925865
+         "react":4925865,
+         "angular":1605640,
+         "vuejs":580894,
+         "svelte":9735
       },
       {
          "date":"2017-07",
-         "downloads":4766380
+         "react":4766380,
+         "angular":1726461,
+         "vuejs":660067,
+         "svelte":8912
       },
       {
          "date":"2017-08",
-         "downloads":5284013
+         "react":5284013,
+         "angular":1853198,
+         "vuejs":709063,
+         "svelte":12514
       },
       {
          "date":"2017-09",
-         "downloads":5581184
+         "react":5581184,
+         "angular":1885029,
+         "vuejs":812561,
+         "svelte":10573
       },
       {
          "date":"2017-10",
-         "downloads":7040410
+         "react":7040410,
+         "angular":2168899,
+         "vuejs":874424,
+         "svelte":8161
       },
       {
          "date":"2017-11",
-         "downloads":7366635
+         "react":7366635,
+         "angular":2369837,
+         "vuejs":1076463,
+         "svelte":7774
       },
       {
          "date":"2017-12",
-         "downloads":6170952
+         "react":6170952,
+         "angular":2118275,
+         "vuejs":1049066,
+         "svelte":9978
       },
       {
          "date":"2018-01",
-         "downloads":7523768
+         "react":7523768,
+         "angular":2862202,
+         "vuejs":1193073,
+         "svelte":10353
       },
       {
          "date":"2018-02",
-         "downloads":7875162
+         "react":7875162,
+         "angular":2523632,
+         "vuejs":1081402,
+         "svelte":10657
       },
       {
          "date":"2018-03",
-         "downloads":9740774
+         "react":9740774,
+         "angular":2862202,
+         "vuejs":1556783,
+         "svelte":31380
       },
       {
          "date":"2018-04",
-         "downloads":9802818
+         "react":9802818,
+         "angular":2618252,
+         "vuejs":1443372,
+         "svelte":32746
       },
       {
          "date":"2018-05",
-         "downloads":10302291
+         "react":10302291,
+         "angular":3179610,
+         "vuejs":1491657,
+         "svelte":22346
       },
       {
          "date":"2018-06",
-         "downloads":11187155
+         "react":11187155,
+         "angular":3110572,
+         "vuejs":1606459,
+         "svelte":13877
       },
       {
          "date":"2018-07",
-         "downloads":11556427
+         "react":11556427,
+         "angular":3433279,
+         "vuejs":1814560,
+         "svelte":22858
       },
       {
          "date":"2018-08",
-         "downloads":12592787
+         "react":12592787,
+         "angular":4107825,
+         "vuejs":2231426,
+         "svelte":40969
       },
       {
          "date":"2018-09",
-         "downloads":12722912
+         "react":12722912,
+         "angular":3785735,
+         "vuejs":2199441,
+         "svelte":37426
       },
       {
          "date":"2018-10",
-         "downloads":16586313
+         "react":16586313,
+         "angular":4079134,
+         "vuejs":2752529,
+         "svelte":62902
       },
       {
          "date":"2018-11",
-         "downloads":15758954
+         "react":15758954,
+         "angular":4072219,
+         "vuejs":2849511,
+         "svelte":47830
       },
       {
          "date":"2018-12",
-         "downloads":13639696
+         "react":13639696,
+         "angular":3606818,
+         "vuejs":2902949,
+         "svelte":70779
       },
       {
          "date":"2019-01",
-         "downloads":20388507
+         "react":20388507,
+         "angular":4343267,
+         "vuejs":3244749,
+         "svelte":74309
       },
       {
          "date":"2019-02",
-         "downloads":22617750
+         "react":22617750,
+         "angular":4334171,
+         "vuejs":3369580,
+         "svelte":76042
       },
       {
          "date":"2019-03",
-         "downloads":25391784
+         "react":25391784,
+         "angular":4657378,
+         "vuejs":4114746,
+         "svelte":88936
       },
       {
          "date":"2019-04",
-         "downloads":21484718
+         "react":21484718,
+         "angular":4633421,
+         "vuejs":4097378,
+         "svelte":84990
       },
       {
          "date":"2019-05",
-         "downloads":23370642
+         "react":23370642,
+         "angular":4797688,
+         "vuejs":4232210,
+         "svelte":113397
       },
       {
          "date":"2019-06",
-         "downloads":20316955
+         "react":20316955,
+         "angular":4633593,
+         "vuejs":3995196,
+         "svelte":85857
       },
       {
          "date":"2019-07",
-         "downloads":22785712
+         "react":22785712,
+         "angular":5140042,
+         "vuejs":4589346,
+         "svelte":96471
       },
       {
          "date":"2019-08",
-         "downloads":23882767
+         "react":23882767,
+         "angular":5040706,
+         "vuejs":4575779,
+         "svelte":93749
       },
       {
          "date":"2019-09",
-         "downloads":23709578
+         "react":23709578,
+         "angular":5256548,
+         "vuejs":4556959,
+         "svelte":102556
       },
       {
          "date":"2019-10",
-         "downloads":27636327
+         "react":27636327,
+         "angular":5982276,
+         "vuejs":5275366,
+         "svelte":122904
       },
       {
          "date":"2019-11",
-         "downloads":26399902
+         "react":26399902,
+         "angular":5633371,
+         "vuejs":5433849,
+         "svelte":167955
       },
       {
          "date":"2019-12",
-         "downloads":23147547
+         "react":23147547,
+         "angular":4892260,
+         "vuejs":4935529,
+         "svelte":150536
       },
       {
          "date":"2020-01",
-         "downloads":26725998
+         "react":26725998,
+         "angular":5621025,
+         "vuejs":5455880,
+         "svelte":172782
       },
       {
          "date":"2020-02",
-         "downloads":27884703
+         "react":27884703,
+         "angular":6003104,
+         "vuejs":5794155,
+         "svelte":170974
       },
       {
          "date":"2020-03",
-         "downloads":34634871
+         "react":34634871,
+         "angular":6933219,
+         "vuejs":6948878,
+         "svelte":206062
       },
       {
          "date":"2020-04",
-         "downloads":35984159
+         "react":35984159,
+         "angular":6814188,
+         "vuejs":6899472,
+         "svelte":227734
       },
       {
          "date":"2020-05",
-         "downloads":33571306
+         "react":33571306,
+         "angular":6637873,
+         "vuejs":6655801,
+         "svelte":274223
       },
       {
          "date":"2020-06",
-         "downloads":32524936
+         "react":32524936,
+         "angular":6619260,
+         "vuejs":6809919,
+         "svelte":274203
       },
       {
          "date":"2020-07",
-         "downloads":34483822
+         "react":34483822,
+         "angular":7657610,
+         "vuejs":7429533,
+         "svelte":321000
       },
       {
          "date":"2020-08",
-         "downloads":33255137
+         "react":33255137,
+         "angular":7504543,
+         "vuejs":7374042,
+         "svelte":362813
       },
       {
          "date":"2020-09",
-         "downloads":35290230
+         "react":35290230,
+         "angular":8239096,
+         "vuejs":8347764,
+         "svelte":40907
       },
       {
          "date":"2020-10",
-         "downloads":38471831
+         "react":38471831,
+         "angular":8861794,
+         "vuejs":8666535,
+         "svelte":470079
       },
       {
          "date":"2020-11",
-         "downloads":37225237
+         "react":37225237,
+         "angular":8839529,
+         "vuejs":8301803,
+         "svelte":434529
       },
       {
          "date":"2020-12",
-         "downloads":34574548
+         "react":34574548,
+         "angular":8490025,
+         "vuejs":8034568,
+         "svelte":431872
       },
       {
          "date":"2021-01",
-         "downloads":36696617
+         "react":36696617,
+         "angular":9183027,
+         "vuejs":8409502,
+         "svelte":474832
       },
       {
          "date":"2021-02",
-         "downloads":40218041
+         "react":40218041,
+         "angular":10066886,
+         "vuejs":8773960,
+         "svelte":508818
       },
       {
          "date":"2021-03",
-         "downloads":48579475
+         "react":48579475,
+         "angular":11925345,
+         "vuejs":10728910,
+         "svelte":642755
       },
       {
          "date":"2021-04",
-         "downloads":45103483
+         "react":45103483,
+         "angular":11012523,
+         "vuejs":9861822,
+         "svelte":65207
       },
       {
          "date":"2021-05",
-         "downloads":45648399
+         "react":45648399,
+         "angular":11074584,
+         "vuejs":9935099,
+         "svelte":877833
       },
       {
          "date":"2021-06",
-         "downloads":47660775
+         "react":47660775,
+         "angular":11651534,
+         "vuejs":11165546,
+         "svelte":660983
       },
       {
          "date":"2021-07",
-         "downloads":46257534
+         "react":46257534,
+         "angular":11090802,
+         "vuejs":10965739,
+         "svelte":71939
       },
       {
          "date":"2021-08",
-         "downloads":48160976
+         "react":48160976,
+         "angular":11358900,
+         "vuejs":10865724,
+         "svelte":794328
       },
       {
          "date":"2021-09",
-         "downloads":50016259
+         "react":50016259,
+         "angular":11889398,
+         "vuejs":11440292,
+         "svelte":831614
       },
       {
          "date":"2021-10",
-         "downloads":50865853
+         "react":50865853,
+         "angular":12156425,
+         "vuejs":11253493,
+         "svelte":880528
       },
       {
          "date":"2021-11",
-         "downloads":52880032
+         "react":52880032,
+         "angular":11997348,
+         "vuejs":11961334,
+         "svelte":920062
       },
       {
          "date":"2021-12",
-         "downloads":51925027
+         "react":51925027,
+         "angular":10898334,
+         "vuejs":11237560,
+         "svelte":926502
       },
       {
          "date":"2022-01",
-         "downloads":58992112
+         "react":58992112,
+         "angular":11562920,
+         "vuejs":11759830,
+         "svelte":1101445
       },
       {
          "date":"2022-02",
-         "downloads":61590831
+         "react":61590831,
+         "angular":12027644,
+         "vuejs":12452541,
+         "svelte":1104877
       },
       {
          "date":"2022-03",
-         "downloads":71390997
+         "react":71390997,
+         "angular":13672408,
+         "vuejs":14574952,
+         "svelte":1210758
       },
       {
          "date":"2022-04",
-         "downloads":63224624
+         "react":63224624,
+         "angular":12086454,
+         "vuejs":13168672,
+         "svelte":1219267
       },
       {
          "date":"2022-05",
-         "downloads":65096557
+         "react":65096557,
+         "angular":13107341,
+         "vuejs":14278203,
+         "svelte":1367070
       },
       {
          "date":"2022-06",
-         "downloads":69580774
+         "react":69580774,
+         "angular":13681424,
+         "vuejs":14428351,
+         "svelte":1383738
       },
       {
          "date":"2022-07",
-         "downloads":62949650
+         "react":62949650,
+         "angular":11862073,
+         "vuejs":13730341,
+         "svelte":1508950
       },
       {
          "date":"2022-08",
-         "downloads":73149574
+         "react":73149574,
+         "angular":13388357,
+         "vuejs":15196737,
+         "svelte":1604555
       },
       {
          "date":"2022-09",
-         "downloads":72383277
+         "react":72383277,
+         "angular":13536020,
+         "vuejs":15143970,
+         "svelte":1613777
       },
       {
          "date":"2022-10",
-         "downloads":73547553
+         "react":73547553,
+         "angular":13268807,
+         "vuejs":15669436,
+         "svelte":1713640
       }
    ]
 }
